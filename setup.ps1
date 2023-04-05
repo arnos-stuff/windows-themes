@@ -11,6 +11,7 @@ scoop install go;
 scoop install rust ;
 scoop install vcredist2022 ; 
 scoop install starship;
+scoop bucket add extras;
 
 go install github.com/jreisinger/ghrel@latest ;
 

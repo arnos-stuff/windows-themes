@@ -5,4 +5,4 @@ cargo install zoxide;
 
 scoop install gnupg;
 
-go install gopass ;
+go install gopasspw/gopass ;

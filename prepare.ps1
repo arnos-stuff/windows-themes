@@ -3,7 +3,7 @@ go install jreisinger/ghrel@latest ;
 
 ghrel tonsky/FiraCode;
 
-7x *.zip ;
+7z x *.zip ;
 
 ghrel namazso/SecureUxTheme ;
 

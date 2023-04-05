@@ -12,7 +12,7 @@ scoop install rust ;
 scoop install vcredist2022 ; 
 scoop install starship;
 
-go install jreisinger/ghrel@latest ;
+go install github.com/jreisinger/ghrel@latest ;
 
 ghrel tonsky/FiraCode;
 

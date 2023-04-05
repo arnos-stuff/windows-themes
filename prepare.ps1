@@ -3,13 +3,13 @@ cd tmp;
 
 go install jreisinger/ghrel@latest ;
 
-ghrel tonsky/FiraCode;
+ghrel tonsky/FiraCode@latest;
 
 7z x *.zip ;
 
-ghrel namazso/SecureUxTheme ;
+ghrel namazso/SecureUxTheme@latest ;
 
-ghrel rainmeter/rainmeter ;
+ghrel rainmeter/rainmeter@latest ;
 
 git clone https://github.com/niivu/Windows-11-themes.git Windows-Themes ; 
 
